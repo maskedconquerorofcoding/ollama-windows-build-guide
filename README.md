@@ -5,9 +5,9 @@ Local Ollama Build Guide (Windows)
 ⚠️ WARNING: This guide modifies Ollama source code for learning/modding only. It may damage your system—backup data first. Not for hacking/blackhat use. Contact authorities if compromised. Author not liable.​
 
 Prerequisites
-GitHub account (sign in at github.com)
+GitHub account sign in at github.com
 
-Ollama installed and updated (ollama.com/download)
+Ollama installed and updated ollama.com/download
 
 8GB+ RAM, decent CPU/GPU recommended
 
