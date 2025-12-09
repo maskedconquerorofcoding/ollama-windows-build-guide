@@ -18,7 +18,7 @@ Fork Ollama repo
 Go to https://github.com/ollama/ollama and click "Fork" (top-right). This creates your copy at github.com/YOUR_USERNAME/ollama.​ (Replace "YOUR_USERNAME" with you're github username.)
 
 Install Git
-Download from git-scm.com/downloads. Run installer, select all components on "Select Components" screen for future modding ease.​
+Download from https://git-scm.com/downloads. Run installer, select all components on "Select Components" screen for future modding ease.​
 
 Install Go
 Download Windows installer from https://go.dev/dl. Run it (adds go to PATH).​
