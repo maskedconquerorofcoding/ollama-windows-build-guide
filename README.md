@@ -2,12 +2,12 @@ Local Ollama Build Guide (Windows)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-⚠️ WARNING: This guide modifies Ollama source code for learning/modding only. It may damage your system—backup data first. Not for hacking/blackhat use. Contact authorities if compromised. Author not liable.​
+⚠️ WARNING: This guide modifies Ollama source code for learning/modding only. It may damage your system—backup data first. Not for hacking/blackhat use. Contact authorities if compromised by someone else. Author not liable.​
 
 Prerequisites
-GitHub account sign in at github.com
+GitHub account sign in at https://github.com
 
-Ollama installed and updated ollama.com/download
+Ollama installed and updated https://ollama.com/download
 
 8GB+ RAM, decent CPU/GPU recommended
 
@@ -15,13 +15,13 @@ Windows 10/11
 
 Step-by-Step Setup
 Fork Ollama repo
-Go to github.com/ollama/ollama and click "Fork" (top-right). This creates your copy at github.com/YOUR_USERNAME/ollama.​
+Go to https://github.com/ollama/ollama and click "Fork" (top-right). This creates your copy at github.com/YOUR_USERNAME/ollama.​ (Replace "YOUR_USERNAME" with you're github username.)
 
 Install Git
 Download from git-scm.com/downloads. Run installer, select all components on "Select Components" screen for future modding ease.​
 
 Install Go
-Download Windows installer from go.dev/dl. Run it (adds go to PATH).​
+Download Windows installer from https://go.dev/dl. Run it (adds go to PATH).​
 
 Open Git Bash
 Search "Git Bash" in Start menu and launch.​
